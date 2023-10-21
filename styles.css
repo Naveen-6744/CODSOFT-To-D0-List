@@ -6,7 +6,9 @@
 }
 
 .container {
-    max-width: 540px;
+    max-width: 640px;
+    height: 320;
+    max-height: auto;
     margin: 0 auto;
     padding: 10px 20px;
     background-color: #2FCED4;
